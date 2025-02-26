@@ -30,18 +30,21 @@ todo add "Task title" -d "Task description"
 
 ### List all tasks
 
-bash
+```bash
 todo list
+```
 
 ### Mark a task as completed
 
-bash
+```bash
 todo complete <task_id>
+```
 
 ### Delete a task
 
-bash
+```bash
 todo delete <task_id>
+```
 
 ## Technical Documentation
 
