@@ -49,7 +49,3 @@ todo delete <task_id>
 ## Technical Documentation
 
 For more detailed information about the architecture and how to extend the application, please refer to the [Technical Documentation](docs/technical_documentation.md).
-
-```
-
-```
